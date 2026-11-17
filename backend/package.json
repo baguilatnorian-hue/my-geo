@@ -24,5 +24,8 @@
   },
   "devDependencies": {
     "nodemon": "^3.1.14"
+  },
+  "allowScripts": {
+    "better-sqlite3@13.2.0": true
   }
 }
